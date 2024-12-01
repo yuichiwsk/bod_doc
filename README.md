@@ -1,4 +1,4 @@
-# Using biochemical oxygen demand as a proxy for dissolved organic carbon in Japanese rivers
+# Biochemical oxygen demand as a proxy for dissolved organic carbon in Japanese rivers
 This repository contains supplementary Tables for Iwasaki and Naito (to be submitted).
 
 Yuichi Iwasaki, Naito (to be submitted) Using biochemical oxygen demand as a proxy for dissolved organic carbon in Japanese rivers: Conservative estimates for ecological risk assessment. XXXXX. ##(#): ####–####.
